@@ -2,9 +2,9 @@
 
 # Image settings
 user_name=rkrispin
-image_label=python-dev
-image_tag=0.2.2
-quarto_ver="1.7.32"
+image_label=f1-dev
+image_tag=0.0.1
+quarto_ver="1.8.24"
 python_ver=3.11
 venv_name="python-$python_ver-dev"
 ruff_ver="0.12.0"
